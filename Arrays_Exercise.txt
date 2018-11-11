@@ -1,0 +1,10 @@
+Exercises
+Make and application that has an array that can hold 50 random numbers between 1 and 100. Display the contents of this array.
+
+Extend your application so that it will use an Array Class method to find the index of one of the numbers that is displayed in your array.
+(Hint: You need to find the index of the number your looking for.)
+
+Extend the application to copy the array to a new array.
+
+Extend your application to reverse the original array and display both the original and copied arrays.
+(Note: One array should be ascending and the other should be descending)
